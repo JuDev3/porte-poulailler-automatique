@@ -13,3 +13,5 @@ Une 2e solution consiste à utiliser une librairie Python.
 Par souci de simplification électtronique et pour éviter toute panne, j'ai opté pour la seconde solution en utilisant la librairie PyEphem : https://github.com/brandon-rhodes/pyephem
 
 # Gestion énergétique
+L'objectif est de rendre la solution autonome en énergie.
+Le circuit électronique est alimenté par des batteries chargées par des panneaux solaires.
