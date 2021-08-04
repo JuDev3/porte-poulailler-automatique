@@ -15,3 +15,15 @@ Par souci de simplification électtronique et pour éviter toute panne, j'ai opt
 # Gestion énergétique
 L'objectif est de rendre la solution autonome en énergie.
 Le circuit électronique est alimenté par des batteries chargées par des panneaux solaires.
+
+# Matériel
+RaspberryPi WH
+Moteur pas à pas avec son contrôleur (circuit à base de ULN2003AN)
+Batteries 3.7 V / 800mAh
+Panneaux solaires
+
+# Logiciel
+RaspberryPi OS Lite (Buster)
+Scripts shell
+Scripts Python
+crontab
