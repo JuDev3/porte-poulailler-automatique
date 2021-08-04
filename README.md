@@ -21,6 +21,7 @@ Le circuit électronique est alimenté par des batteries chargées par des panne
 - Moteur pas à pas avec son contrôleur (circuit à base de ULN2003AN)
 - Batteries 3.7 V / 800mAh
 - Panneaux solaires
+- Régulateur de tension
 
 # Logiciel
 - RaspberryPi OS Lite (Buster)
