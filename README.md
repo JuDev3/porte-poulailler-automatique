@@ -5,12 +5,12 @@ L'objectif du projet consiste à créer une solution autonome en énergie à bas
 
 # Heures d'ouverture et fermeture
 Les heures d'ouverture et fermeture de la porte dépendent de l'époque de l'année.
-En hivers les poules sortent et rentrent à des heures différentes qu'en été, elles sont ryhtmées par les heures de l'aube et du crépuscule.
+En hivers les poules sortent et rentrent à des heures différentes qu'en été, elles sont rythmées par les heures de l'aube et du crépuscule.
 
 Une première solution aurait consisté à utiliser un capteur de luminosité.
 Une 2e solution consiste à utiliser une librairie Python.
 
-Par souci de simplification électtronique et pour éviter toute panne, j'ai opté pour la seconde solution en utilisant la librairie PyEphem : https://github.com/brandon-rhodes/pyephem
+Par souci de simplification électronique et pour éviter toute panne, j'ai opté pour la seconde solution en utilisant la librairie PyEphem : https://github.com/brandon-rhodes/pyephem
 
 # Gestion énergétique
 L'objectif est de rendre la solution autonome en énergie.
